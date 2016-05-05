@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_8ae8ea50799f7b0e9fcea18529e2ef9d0974a941\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_e05c36361ca5ae5be6aaa82bba9bc48d4b0c1636\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_65d9d53f3dd003ef2c21805dc502d5aec517e6de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e8fe94374ad63ba336a754453d5d341abedcfb8">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3c42903e8eabc63152c12bbe6677a99d15c264d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_b159fabbc5f1486f6448a62c0244f5ad64377419\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_6ada9819ab45491fc8dde01765856bd7ba7af0dd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cf22470b0da6e3e2ea00126e6b123a0bdd2c814">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_991cdf151fd6f0a66ab842dd62571cb8d7c530f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_7825d1c0e5b90f39893715047c019aa49bd5113f\classes.dex" />
+    </item>
+
+</items>
