@@ -12,11 +12,12 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Search"
+        android:text="Go"
         android:id="@+id/btnSearch"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="142dp" />
+        android:layout_marginBottom="142dp"
+        android:onClick="onClick" />
 
     <EditText
         android:layout_width="wrap_content"

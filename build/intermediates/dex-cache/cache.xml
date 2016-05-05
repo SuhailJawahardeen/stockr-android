@@ -26,7 +26,7 @@
         jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="1e8fe94374ad63ba336a754453d5d341abedcfb8">
+        sha1="eceeeb0142f3edc3d5241741aedd17012333ccb5">
         <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3c42903e8eabc63152c12bbe6677a99d15c264d6\classes.dex" />
     </item>
     <item
@@ -47,7 +47,7 @@
         jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="3cf22470b0da6e3e2ea00126e6b123a0bdd2c814">
+        sha1="058511958118ec79f56d597a473d8951e0d4a706">
         <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_991cdf151fd6f0a66ab842dd62571cb8d7c530f8\classes.dex" />
     </item>
     <item
@@ -56,6 +56,13 @@
         revision="23.0.3"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
         <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_7825d1c0e5b90f39893715047c019aa49bd5113f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\lib\YahooFinanceAPI-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bfd3c23957c7e8c14f9e62d64f63147480fd7f2d">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\YahooFinanceAPI-3.2.0_eb0d7fa7c9a7650b841c43c6c563d5484b768b03\classes.dex" />
     </item>
 
 </items>
