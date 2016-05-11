@@ -25,6 +25,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         Button btnSearch = (Button) v;
         TextView lblValueDisplay = (TextView) v;
-        lblValueDisplay.setText("TEST");
+        TextView t = (TextView) findViewById(R.id.lblValueDisplay);
+        t.setText("THIS WORKS");
     }
 }
