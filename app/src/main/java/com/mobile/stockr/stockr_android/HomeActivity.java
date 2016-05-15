@@ -24,6 +24,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+        thread.start();
 
 
 
@@ -34,19 +35,21 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
         @Override
         public void run() {
-            try
-            {
-                EditText txtUserInput = (EditText) findViewById(R.id.txtUserInput);
-                TextView lblValueDisplay = (TextView) findViewById(R.id.lblValueDisplay);
-                String stkvalue = YahooFinance.get(txtUserInput.getText().toString().toUpperCase()).toString();
-                lblValueDisplay.setText(stkvalue);
-            }
-            catch (Exception e)
-            {
-                e.printStackTrace();
+            EditText txtUserInput = (EditText) findViewById(R.id.txtUserInput);
+            TextView lblValueDisplay = (TextView) findViewById(R.id.lblValueDisplay);
+            while (true) {
+                try {
+                    String x = YahooFinance.get(txtUserInput.getText().toString().toUpperCase()).toString();
 
-            }
+                    lblValueDisplay.setText(x);
 
+                } catch (Exception e) {
+                    e.printStackTrace();
+
+
+
+                }
+            }
         }
     });
 

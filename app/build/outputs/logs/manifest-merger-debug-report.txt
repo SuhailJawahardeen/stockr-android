@@ -18,7 +18,7 @@ ADDED from C:\Users\suhail\Documents\code\git\stockr-android\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\suhail\Documents\code\git\stockr-android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\suhail\Documents\code\git\stockr-android\app\src\main\AndroidManifest.xml:5:5-78
+ADDED from C:\Users\suhail\Documents\code\git\stockr-android\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
 		ADDED from C:\Users\suhail\Documents\code\git\stockr-android\app\src\main\AndroidManifest.xml:5:22-76
 application

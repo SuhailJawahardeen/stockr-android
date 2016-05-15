@@ -2,67 +2,53 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\DeanF\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_3a32ae0a393d2f4b0c7eef5458f3c0de769ad5a8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_39432c3fa9fc22d87605a8f59b735e35ba86cb83\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_5b097f5d36efeabfa96b036bfcbf7639b83b7b0c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\lib\YahooFinanceAPI-3.2.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="bfd3c23957c7e8c14f9e62d64f63147480fd7f2d">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\YahooFinanceAPI-3.2.0_eb7e85b1ae17074df241e5dd1adfdf5e8df76615\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_94aacf70dc7777ffc5e371a275bbb9ff24aa5ae7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a3a06e7f3535e77a14a20386bfcc7c30eba68092">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a000eb26c4a37b85ef1e5e79a3921b72250c06b7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="cba03f4c0a79900f27bbb1f5b6894ac492775150">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b030abe89f873d7480f7c0d8631c319b5bbc1aa3\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
         revision="23.0.3"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_26f4b5e3723b8032b11b564e6fd0936acdcb592f\classes.dex" />
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_65d9d53f3dd003ef2c21805dc502d5aec517e6de.jar" />
     </item>
     <item
-        jar="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
-        jumboMode="true"
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
         revision="23.0.3"
         sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="C:\Users\DeanF\Desktop\git\stockr\stockr-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_52ffcf0b2077a9b7255d0c54bcc5dc014bec43fb\classes.dex" />
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_8ae8ea50799f7b0e9fcea18529e2ef9d0974a941.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_7825d1c0e5b90f39893715047c019aa49bd5113f.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_e05c36361ca5ae5be6aaa82bba9bc48d4b0c1636.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_6ada9819ab45491fc8dde01765856bd7ba7af0dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhail\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_b159fabbc5f1486f6448a62c0244f5ad64377419.jar" />
+    </item>
+    <item
+        jar="C:\Users\suhail\Documents\code\git\stockr-android\lib\YahooFinanceAPI-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b38d08cc045b3a5eba9913e5ed6b92bf86eda613">
+        <dex dex="C:\Users\suhail\Documents\code\git\stockr-android\app\build\intermediates\pre-dexed\debug\YahooFinanceAPI-3.1.0_d66c903da61e85c06d339cb2d82d87a7c51aaa56.jar" />
     </item>
 
 </items>
